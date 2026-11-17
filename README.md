@@ -141,4 +141,5 @@ The project provides analytical capabilities to investigate:
 
 Data Analyst | SQL Server | Power BI | Excel | Python
 
-[LinkedIn Profile](www.linkedin.com/in/osama-kamal-736495150)
+[LinkedIn Profile](https://www.linkedin.com/in/osama-kamal-736495150/)
+
